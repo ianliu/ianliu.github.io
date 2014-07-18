@@ -1,0 +1,11 @@
+# Site settings
+title: Ian Liu Rodrigues
+email: ian.liu88@gmail.com
+description: ""
+baseurl: ""
+url: "http://ianliu.com.br"
+github_username:  ianliu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
